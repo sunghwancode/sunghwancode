@@ -7,13 +7,15 @@
 안녕하세요. 저의 깃허브에 방문해주셔서 감사합니다!
 현재 부트캠프 백엔드 코스를 수료했으며 프론트엔드에도 관심있는 신입 개발자입니다.
 아직 부족한게 많지만 배운걸 정리하는게 재미있어서 블로그에도 차곡차곡 쌓아놓고 있으니 한번 구경와주세요!
-**sunghwancode.github.io**
+**<a href="https://sunghwancode.github.io/" target="_blank">sunghwancode.github.io</a>**
 
 </p>
 
 <p align="center">
 
-### Studying..
+## Studying..
+
+<p>
 
 **Language**
 
