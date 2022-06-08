@@ -9,7 +9,7 @@
 아직 부족한게 많지만 배운걸 정리하는게 재미있어서 블로그에도 차곡차곡 쌓아놓고 있으니 한번 구경와주세요!
 **sunghwancode.github.io**
 
-## </center>
+</center>
 
 <center>
 
