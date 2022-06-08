@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=D9C099&height=200&section=header&text=Sunghwan 💻 Code&fontSize=60"/>
 
 <p align="center">
-<!-- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsunghwancode%2Fhit-counter&count_bg=%23EE9D37&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a> -->
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsunghwancode%2Fhit-counter&count_bg=%23EE9D37&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
 <p align="center">
 안녕하세요. 저의 깃허브에 방문해주셔서 감사합니다!<br>
@@ -12,7 +12,7 @@
 
 ---
 
-<div style="pointer-events: none;">
+<div style="pointer-events: none !important;">
 <h3 align="center">Studying..</h3>
 <p align="center">
 <b>Language</b>
