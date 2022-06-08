@@ -1,9 +1,3 @@
-<style>
-noneclick {
-    pointer-events: none;
-}
-</style>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=D9C099&height=200&section=header&text=Sunghwan 💻 Code&fontSize=60"/>
 
 <p align="center">
@@ -18,7 +12,7 @@ noneclick {
 
 ---
 
-<noneclick>
+<div style="pointer-events: none;">
 <h3 align="center">Studying..</h3>
 <p align="center">
 <b>Language</b>
@@ -52,4 +46,4 @@ noneclick {
 <p align="center">
 <img src="https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=ElasticSearch&logoColor=black"> <img src="https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=Logstash&logoColor=black"> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=black">
 </p>
-</noneclick>
+</div>
